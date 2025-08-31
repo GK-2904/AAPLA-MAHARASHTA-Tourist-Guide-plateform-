@@ -1,0 +1,312 @@
+.container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #fef2f2 0%, #ffffff 50%, #f0f9ff 100%);
+}
+
+.hero {
+  position: relative;
+  background: linear-gradient(135deg, #dc2626 0%, #7c3aed 100%);
+  color: white;
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.heroOverlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.heroContent {
+  position: relative;
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  max-width: 48rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.searchContainer {
+  background: white;
+  border-radius: 9999px;
+  padding: 0.5rem;
+  max-width: 28rem;
+  margin: 0 auto 2rem;
+}
+
+.searchInput {
+  display: flex;
+  align-items: center;
+}
+
+.searchIcon {
+  color: #9ca3af;
+  margin-left: 1rem;
+  margin-right: 0.75rem;
+}
+
+.searchField {
+  flex: 1;
+  outline: none;
+  color: #1f2937;
+}
+
+.searchField::placeholder {
+  color: #9ca3af;
+}
+
+.statsSection {
+  background: white;
+  padding: 3rem 0;
+}
+
+.statsGrid {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  text-align: center;
+}
+
+.statItem {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.statNumber {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #dc2626;
+}
+
+.statLabel {
+  color: #6b7280;
+}
+
+.templesGrid {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 3rem 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.templeCard {
+  background: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  border: 1px solid #f3f4f6;
+  transition: all 0.3s ease;
+  animation: slideUp 0.5s ease-out;
+}
+
+.templeCard:hover {
+  transform: translateY(-0.5rem) scale(1.02);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+.imageContainer {
+  position: relative;
+}
+
+.templeImage {
+  width: 100%;
+  height: 16rem;
+  object-fit: cover;
+}
+
+.heartButton {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: rgba(255, 255, 255, 0.9);
+  color: #374151;
+  padding: 0.5rem;
+  border-radius: 9999px;
+  transition: all 0.2s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.heartButton:hover {
+  background: white;
+}
+
+.ratingContainer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+  padding: 1rem;
+}
+
+.rating {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 0.875rem;
+}
+
+.starIcon {
+  color: #fbbf24;
+  margin-right: 0.25rem;
+}
+
+.cardContent {
+  padding: 1.5rem;
+}
+
+.templeName {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.75rem;
+  font-family: 'Poppins', sans-serif;
+}
+
+.description {
+  color: #6b7280;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.infoGrid {
+  margin-bottom: 1.5rem;
+}
+
+.infoItem {
+  display: flex;
+  align-items: center;
+  color: #6b7280;
+  margin-bottom: 0.75rem;
+}
+
+.infoIcon {
+  width: 1rem;
+  height: 1rem;
+  margin-right: 0.5rem;
+}
+
+.locationIcon {
+  color: #dc2626;
+}
+
+.timeIcon {
+  color: #0284c7;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.primaryButton {
+  flex: 1;
+  background: #dc2626;
+  color: white;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.primaryButton:hover {
+  background: #b91c1c;
+  transform: scale(1.05);
+}
+
+.secondaryButton {
+  background: #0284c7;
+  color: white;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.secondaryButton:hover {
+  background: #0369a1;
+  transform: scale(1.05);
+}
+
+.noResults {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.noResultsIcon {
+  font-size: 4rem;
+  color: #9ca3af;
+  margin-bottom: 1rem;
+}
+
+.noResultsTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #6b7280;
+  margin-bottom: 0.5rem;
+}
+
+.noResultsText {
+  color: #9ca3af;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 2rem;
+  }
+  
+  .subtitle {
+    font-size: 1rem;
+  }
+  
+  .templesGrid {
+    grid-template-columns: 1fr;
+  }
+}

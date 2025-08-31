@@ -1,0 +1,310 @@
+{
+  "data": [
+    {
+      "id": "6ba0",
+      "name": "Tuljapur Temple",
+      "description": "Tuljapur is a town with a municipal council in Dharashiv District in the Indian state of Maharashtra. It is the administrative seat of Tuljapur taluka. Tuljapur is the location of the annual Tulja Bhavani fair during Navaratri, i.e., in the months of September and October (the date varies). The town is home to the Tulja Bhavani Temple.",
+      "image": "https://utsav.gov.in/public/uploads/darshan_cover_image/darshan_7/16491374841691482530.jpg",
+      "location": "Solapur, Maharashtra",
+      "besttime": "The best time to go Tuljapur is winter, between November and February.",
+      "category": "temple"
+    },
+    {
+      "id": "da75",
+      "name": "Akkalkot Swami Samarth Temple",
+      "description": "Akkalkot is famous for the Samadhi of Shri Swami Samarth, a great saint who lived here in the 19th century. The temple complex includes the main Samadhi, meditation halls, and accommodation facilities for devotees. It's one of the most revered pilgrimage sites in Maharashtra.",
+      "image": "https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/28/d918fe5f383daa2a72a5f503a5ca8708_1000x1000.jpg",
+      "location": "Akkalkot, Solapur, Maharashtra",
+      "besttime": "The best time to visit Akkalkot is during the winter months, from October to March",
+      "category": "temple"
+    },
+    {
+      "id": "7347",
+      "name": "Mahabaleshwar Hill Station",
+      "description": "Mahabaleshwar comprises three villages: Malcolm Peth, Old \"Kshetra\" Mahabaleshwar, and part of the Shindola village. The Mahabaleshwar region is the source of the Krishna River that flows east across Maharashtra, Karnataka, Telangana, and Andhra Pradesh towards the Bay of Bengal. Three tributaries of Krishna, namely Koyna, Venna (Veni) and Gayatri, also have their source in Mahabaleshwar region.",
+      "image": "https://ciklotourism.com/wp-content/uploads/2024/10/Mahabaleshwar.jpg",
+      "location": "Satara, Maharashtra",
+      "besttime": "October to June (Monsoon and Winter)",
+      "category": "hillstation"
+    },
+    {
+      "id": "8c53",
+      "name": "Lonavala Hill Station",
+      "description": "Lonavala is a hill station in the Western Ghats, known for its scenic beauty, caves, and waterfalls. It's famous for its production of the hard candy chikki and is a popular getaway destination for people from Mumbai and Pune.",
+      "image": "https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_400,q_auto,w_700/v1724498343/banbanjara/ggextdtdsfkgjbcgrhkg.webp",
+      "location": "Pune, Maharashtra",
+      "besttime": "October to May (Monsoon and Winter)",
+      "category": "hillstation"
+    },
+    {
+      "id": "a82c",
+      "name": "Ganpatipule Beach",
+      "description": "Ganpatipule is a coastal town known for its pristine beach and the 400-year-old Swayambhu Ganapati Temple. The beach is famous for its white sand and clear waters, making it a perfect destination for beach lovers and pilgrims alike.",
+      "image": "https://www.ganpatipule.co.in/images/slider/5.jpg",
+      "location": "Ratnagiri, Maharashtra",
+      "besttime": "November to March (Winter)",
+      "category": "beaches"
+    },
+    {
+      "id": "b032",
+      "name": "Alibag Beach",
+      "description": "Alibag is a coastal town and municipal council in Raigad district, known for its clean beaches and historical forts. The town is a popular weekend getaway for people from Mumbai and Pune, offering a perfect blend of beach activities and cultural heritage.",
+      "image": "https://media2.thrillophilia.com/images/photos/000/036/475/original/1526845151_1493447573-anjarle-beach1-jpg.jpeg?w=753&h=450&dpr=1.5",
+      "location": "Raigad, Maharashtra",
+      "besttime": "October to May (Post-monsoon and Winter)",
+      "category": "beaches"
+    },
+    {
+      "id": "c123",
+      "name": "Shirdi Sai Baba Temple",
+      "description": "Shirdi is home to the famous Sai Baba Temple, one of the most visited religious sites in India. The temple complex includes the main shrine, meditation halls, and accommodation facilities. Millions of devotees visit Shirdi every year to seek blessings.",
+      "image": "https://blessingsonthenet.com/img/gallery/aim_bn_2_1308574858.jpg",
+      "location": "Ahmednagar, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "d456",
+      "name": "Trimbakeshwar Temple",
+      "description": "Trimbakeshwar is one of the twelve Jyotirlingas and is located near the source of the Godavari River. The temple is known for its unique architecture and spiritual significance. It's a major pilgrimage site for Hindus.",
+      "image": "https://www.templewalks.com/wp-content/uploads/2025/08/trimbakeshwar-shiva-temple-.png",
+      "location": "Nashik, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "e789",
+      "name": "Morgaon Ganesh Temple",
+      "description": "Morgaon is home to the Ashtavinayak Ganesh Temple, one of the eight most sacred Ganesh temples in Maharashtra. The temple is known for its beautiful architecture and spiritual atmosphere.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthybIoCfyXHxuQ_JFOjW_0zjtXG6L8jFxxA&s",
+      "location": "Pune, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "f012",
+      "name": "Pandharpur Vitthal Temple",
+      "description": "Pandharpur is home to the famous Vitthal-Rukmini Temple, one of the most important pilgrimage sites in Maharashtra. The temple is known for its annual Wari pilgrimage where millions of devotees walk from different parts of Maharashtra.",
+      "image": "https://lh4.googleusercontent.com/proxy/bKSU9_YEAKGERrvmzcUc9Md0M8VguW9Shis3J4mqMI4gHXXF90jl97ED1XILcyIxtb4hLUuluk16MQpUQwYQlFr0gYVprIxO0FQ",
+      "location": "Solapur, Maharashtra",
+      "besttime": "November to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "g345",
+      "name": "Matheran Hill Station",
+      "description": "Matheran is Asia's only automobile-free hill station, located in the Western Ghats. It's known for its scenic viewpoints, toy train, and peaceful atmosphere. The hill station offers panoramic views of the surrounding valleys and mountains.",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2025/08/mini-hill-station.jpg",
+      "location": "Raigad, Maharashtra",
+      "besttime": "October to May (Monsoon and Winter)",
+      "category": "hillstation"
+    },
+    {
+      "id": "h678",
+      "name": "Panchgani Hill Station",
+      "description": "Panchgani is a hill station known for its strawberry farms, scenic viewpoints, and educational institutions. It's famous for its five hills and offers activities like paragliding, horse riding, and trekking.",
+      "image": "https://www.panchgani.com/images/hill-station.jpg",
+      "location": "Satara, Maharashtra",
+      "besttime": "October to May (Monsoon and Winter)",
+      "category": "hillstation"
+    },
+    {
+      "id": "i901",
+      "name": "Amboli Hill Station",
+      "description": "Amboli is a hill station in the Western Ghats, known for its waterfalls, viewpoints, and biodiversity. It's less crowded than other hill stations and offers a peaceful retreat in nature.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c2/14/98/amboli.jpg?w=1200&h=-1&s=1",
+      "location": "Sindhudurg, Maharashtra",
+      "besttime": "October to May (Monsoon and Winter)",
+      "category": "hillstation"
+    },
+    {
+      "id": "j234",
+      "name": "Chikhaldara Hill Station",
+      "description": "Chikhaldara is a hill station in the Vidarbha region, known for its coffee plantations, wildlife, and scenic beauty. It's home to the Melghat Tiger Reserve and offers various adventure activities.",
+      "image": "https://nomadsaikat.com/wp-content/uploads/2024/01/Chikhaldara-Hill-Station.webp",
+      "location": "Amravati, Maharashtra",
+      "besttime": "October to May (Monsoon and Winter)",
+      "category": "hillstation"
+    },
+    {
+      "id": "k567",
+      "name": "Toranmal Hill Station",
+      "description": "Toranmal is a hill station in the Satpura range, known for its cool climate, scenic beauty, and religious significance. It's home to several temples and offers trekking opportunities.",
+      "image": "https://www.holidify.com/images/bgImages/TORANMAL.jpg",
+      "location": "Nandurbar, Maharashtra",
+      "besttime": "October to May (Monsoon and Winter)",
+      "category": "hillstation"
+    },
+    {
+      "id": "l890",
+      "name": "Tarkarli Beach",
+      "description": "Tarkarli is a beach destination known for its white sand, clear waters, and water sports activities. It's famous for snorkeling, scuba diving, and dolphin watching. The beach is surrounded by casuarina trees.",
+      "image": "https://ocean6holidays.com/wp-content/uploads/2025/02/tarkarli-tour-2.jpg",
+      "location": "Sindhudurg, Maharashtra",
+      "besttime": "November to March (Winter)",
+      "category": "beaches"
+    },
+    {
+      "id": "m123",
+      "name": "Dapoli Beach",
+      "description": "Dapoli is a coastal town known for its pristine beaches, historical forts, and coconut groves. It's a perfect destination for beach lovers and those interested in water sports.",
+      "image": "https://hotelsadhanaexecutive.com/wp-content/uploads/2022/12/Top-places-to-visit-in-dapoli.jpg",
+      "location": "Ratnagiri, Maharashtra",
+      "besttime": "November to March (Winter)",
+      "category": "beaches"
+    },
+    {
+      "id": "n456",
+      "name": "Murud Beach",
+      "description": "Murud is a coastal village known for its beautiful beach and the historic Janjira Fort. The beach offers a perfect blend of natural beauty and historical significance.",
+      "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2016/09/220916_MurudJanjira4.jpg",
+      "location": "Raigad, Maharashtra",
+      "besttime": "October to May (Post-monsoon and Winter)",
+      "category": "beaches"
+    },
+    {
+      "id": "o789",
+      "name": "Harihareshwar Beach",
+      "description": "Harihareshwar is a coastal village known for its sacred beach and the Harihareshwar Temple. The beach is surrounded by hills and offers a peaceful atmosphere for meditation and relaxation.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREUUV32rkH1Uiz2ITRs5Jlj7EODDHWbRx_ug&s",
+      "location": "Raigad, Maharashtra",
+      "besttime": "October to May (Post-monsoon and Winter)",
+      "category": "beaches"
+    },
+    {
+      "id": "p012",
+      "name": "Velneshwar Beach",
+      "description": "Velneshwar is a beach destination known for its clean shoreline and the Velneshwar Temple. It's a perfect place for beach activities and spiritual retreat.",
+      "image": "https://lh5.googleusercontent.com/proxy/1xkFOGneZueR-PEnXee5dXbordQ3cOxleeteoHyfOyA7kjCuvlDmsby0nqNz66mKf3AZNAsmy_hHz-tnDvzhxc8sGhEcbGgfjpXi8DIpCxwVDJW4ZyzflQKG0riFcPo",
+      "location": "Ratnagiri, Maharashtra",
+      "besttime": "November to March (Winter)",
+      "category": "beaches"
+    },
+    {
+      "id": "q345",
+      "name": "Siddhivinayak Temple",
+      "description": "The Siddhivinayak Temple in Mumbai is one of the most famous Ganesh temples in India. It's known for its spiritual significance and attracts millions of devotees every year.",
+      "image": "https://www.mumbailive.com/images/news/siddhivinayak-temple_151558617795.jpg?fm=webp&w=1368",
+      "location": "Mumbai, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "r678",
+      "name": "Bhimashankar Temple",
+      "description": "Bhimashankar is one of the twelve Jyotirlingas and is located in the Western Ghats. The temple is surrounded by dense forests and is a popular destination for both pilgrims and nature lovers.",
+      "image": "https://st.redbus.in/seo/ind/Bhimshankar_Temple_Maharashtra_1699598863.jpg",
+      "location": "Pune, Maharashtra",
+      "besttime": "October to May (Monsoon and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "s901",
+      "name": "Ghrishneshwar Temple",
+      "description": "Ghrishneshwar is the last of the twelve Jyotirlingas and is located near the Ellora Caves. The temple is known for its beautiful architecture and spiritual significance.",
+      "image": "https://s7ap1.scene7.com/is/image/incredibleindia/grishneshwar-temple-chhatrapati-sambhaji-nagar-maharashtra-grishneshwar-temple1-attr-hero?qlt=82&ts=1727010624846",
+      "location": "Aurangabad, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "t234",
+      "name": "Mahalakshmi Temple",
+      "description": "The Mahalakshmi Temple in Kolhapur is one of the most important Shakti Peethas in India. The temple is known for its spiritual significance and beautiful architecture.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2L7hFreQu8PLdNFlr3DXJxpRIwImuqb52HQ&s",
+      "location": "Kolhapur, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "u567",
+      "name": "Khandoba Temple",
+      "description": "The Khandoba Temple in Jejuri is one of the most important temples dedicated to Lord Khandoba. The temple is known for its unique rituals and spiritual atmosphere.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHDelS3qYqEbelyco0lc1E2H65NRJAV6PQA&s",
+      "location": "Pune, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "v890",
+      "name": "Vajreshwari Temple",
+      "description": "The Vajreshwari Temple is located in Vajreshwari village and is dedicated to Goddess Vajreshwari. The temple is known for its hot water springs and spiritual significance.",
+      "image": "https://utsav.gov.in/public/uploads/event_cover_image/event_1169/166358173395410347.jpg",
+      "location": "Thane, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "w123",
+      "name": "Narayaneshwar Temple",
+      "description": "The Narayaneshwar Temple is located in Narayangaon and is dedicated to Lord Vishnu. The temple is known for its beautiful architecture and spiritual atmosphere.",
+      "image": "https://heritagetemples.org/public/journal/20230826090848_64e9c120cc212.jpg",
+      "location": "Pune, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "x456",
+      "name": "Kukdeshwar Temple",
+      "description": "The Kukdeshwar Temple is located in Kukdeshwar village and is dedicated to Lord Shiva. The temple is known for its spiritual significance and beautiful surroundings.",
+      "image": "https://img1.wsimg.com/isteam/ip/f2bbd811-e785-4dfe-b2a8-1e99c7de6a39/dganesh_kukadeshwar_01.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25",
+      "location": "Pune, Maharashtra",
+      "besttime": "October to March (Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "y789",
+      "name": "Ranjangaon Ganapati Temple",
+      "description": "The Ranjangaon Ganapati Temple is one of the Ashtavinayak temples and is dedicated to Lord Ganesh. The temple is known for its spiritual significance and beautiful architecture.",
+      "image": "https://kirtankar.com/wp-content/uploads/2025/03/Mahaganpati-Ranjangaon.webp",
+      "location": "Pune, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "z012",
+      "name": "Theur Ganapati Temple",
+      "description": "The Theur Ganapati Temple is one of the Ashtavinayak temples and is dedicated to Lord Ganesh. The temple is known for its spiritual significance and peaceful atmosphere.",
+      "image": "https://www.trawell.in/admin/images/upload/140628467Theur-Chintamani-Temple.jpg",
+      "location": "Pune, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "aa345",
+      "name": "Lenyadri Ganapati Temple",
+      "description": "The Lenyadri Ganapati Temple is one of the Ashtavinayak temples and is located in a cave. The temple is known for its unique location and spiritual significance.",
+      "image": "https://i0.wp.com/historicalthings.com/wp-content/uploads/2022/12/Lenyadri-Ganpati-Temple.webp?fit=900%2C674&ssl=1",
+      "location": "Pune, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "bb678",
+      "name": "Ozar Ganapati Temple",
+      "description": "The Ozar Ganapati Temple is one of the Ashtavinayak temples and is dedicated to Lord Ganesh. The temple is known for its spiritual significance and beautiful architecture.",
+      "image": "https://thetempleguru.com/wp-content/uploads/2023/04/Vigneshwara-Temple-Ozar-10.jpg",
+      "location": "Pune, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "cc901",
+      "name": "Mahad Ganapati Temple",
+      "description": "The Mahad Ganapati Temple is one of the Ashtavinayak temples and is dedicated to Lord Ganesh. The temple is known for its spiritual significance and peaceful surroundings.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvA59HGjpr-ZfvdwKlT-XqOpNZAp6I9wiqjw&s",
+      "location": "Raigad, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    },
+    {
+      "id": "dd234",
+      "name": "Pali Ganapati Temple",
+      "description": "The Pali Ganapati Temple is one of the Ashtavinayak temples and is dedicated to Lord Ganesh. The temple is known for its spiritual significance and beautiful architecture.",
+      "image": "https://shreeganesh.com/site/wp-content/uploads/2020/10/ballaleshwar-ganpati-temple-pali1.jpg",
+      "location": "Raigad, Maharashtra",
+      "besttime": "August to March (Ganesh Chaturthi and Winter)",
+      "category": "temple"
+    }
+  ]
+}

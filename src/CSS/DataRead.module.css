@@ -1,0 +1,48 @@
+/* Page container */
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 25px 30px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Heading */
+.title {
+  text-align: center;
+  font-size: 2rem;
+  color: #343a40;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+
+/* Detail Item */
+.detailItem {
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: #495057;
+}
+
+.detailItem span {
+  font-weight: 600;
+  color: #007bff;
+}
+
+/* Back Link */
+.backLink {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background: #17a2b8;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s ease;
+}
+
+.backLink:hover {
+  background: #117a8b;
+}

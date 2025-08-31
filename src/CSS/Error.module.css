@@ -1,0 +1,13 @@
+.back{
+
+    background-image: url("https://cdn.dribbble.com/userupload/26257484/file/original-f015f1bb3122ab104bd209037b94df7c.gif");
+
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: -70px;
+
+    /* width: 1000px; */
+}
+
